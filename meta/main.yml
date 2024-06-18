@@ -5,7 +5,7 @@ dependencies: []
 galaxy_info:
   author: sohan yadav
   description: This ansible role is used to install Nginx Server on linux.
-  company: "cypik Inc."
+  company: "cypik"
   license: "license (BSD, MIT)"
   role_name: ansible_role_nginx
   namespace: cypik
